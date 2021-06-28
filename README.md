@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hmnasri
-- 👀 I’m interested in AI, Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI, Data Science, IoT and Remote Services
+- 🌱 I’m currently learning all relevant knowledge
+- 💞️ I’m looking to collaborate on Remote Maintenance & Services
 - 📫 How to reach me : +33 671 773 870
 
 <!---
